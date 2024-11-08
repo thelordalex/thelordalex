@@ -1,6 +1,6 @@
 ![Welcome Image](https://github.com/thelordalex/thelordalex/blob/main/gif0.gif)
 
-# Welcome to My GitHub - Alex World 🌐
+# # Explore Alex World on GitHub 🌐 
 
 **🔍 Enhancing Magisk with Custom Add-ons**
 
