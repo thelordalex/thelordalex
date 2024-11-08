@@ -5,7 +5,8 @@
 ---
 
 ### 🚀 About Me:
-- 💻 Developer | I've tasted a variety of every kind ×
+- **💻 Developer | Alex**
+- **I've tasted a variety of every kind ×**
 - ⚙️ Specializing in **Shell Scripting**, **HTML Development**, and **Reverse Engineering for Apps**
 - 🌐 Passionate about **penetration testing**, **network security**, and **advanced programming techniques**
 
