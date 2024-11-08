@@ -1,6 +1,8 @@
+![Welcome Image](https://github.com/thelordalex/thelordalex/blob/main/gif0.gif)
+
 # Welcome to My GitHub - Alex World 🌐
 
-**🔍Enhancing Magisk with Custom Add-ons**
+**🔍 Enhancing Magisk with Custom Add-ons**
 
 ---
 
@@ -27,7 +29,7 @@
 ### 🧩 Let's Code Together!
 I thrive in pushing boundaries, crafting tools that defy limitations, and bringing stability to high-performance projects. Whether you're here to collaborate, learn, or just explore, let’s make it count.
 
-> **"Hack the Code. Master the Machine."** 
+> **"Hack the Code. Master the Machine."**
 
 ---
 
@@ -37,18 +39,3 @@ Each project in this repository is crafted for **maximum impact and efficiency**
 ---
 
 **Explore. Collaborate. Innovate.**
-
-<!--
-**thelordalex/thelordalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
