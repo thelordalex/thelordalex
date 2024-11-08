@@ -1,6 +1,6 @@
 # Welcome to My GitHub - Alex World 🌐
 
-**🔍 Uncovering the Unknown | Engineering Digital Power | Defining the Future**
+**🔍Enhancing Magisk with Custom Add-ons**
 
 ---
 
