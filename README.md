@@ -15,6 +15,9 @@
 <a href="https://t.me/uusergram">
   <img src="https://img.shields.io/badge/Telegram-1A1A2E?style=for-the-badge&logo=telegram&logoColor=9D8CFF" />
 </a>
+<a href="https://t.me/InsideAlexWorld">
+  <img src="https://img.shields.io/badge/Telegram_Channel-25D366?style=for-the-badge&logo=telegram&logoColor=white&labelColor=25D366" />
+</a>
 
 </div>
 
@@ -65,7 +68,7 @@ I build whatever idea comes to mind — Magisk modules, custom kernels, and fram
 <tr>
 <td align="center">
 
-### <span style="color:#FF3B3B">Now</span>
+### <span style="color:#FF3B3B">Alex projects</span>
 
 <img src="https://img.shields.io/badge/Building%20Magisk%20modules%20%26%20kernel%20tweaks-1A1A2E?style=for-the-badge&logoColor=9D8CFF" />
 
