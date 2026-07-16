@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🇪🇬 Developer Supporting Palestine 🇵🇸
+# 🕊️
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9D8CFF&center=true&vCenter=true&width=460&lines=Magisk+Modules+%26+Root+Development;Custom+Kernel+Tweaks;Game+FPS+%26+Performance+Optimization;Building+things+that+just+work." alt="typing" />
 
